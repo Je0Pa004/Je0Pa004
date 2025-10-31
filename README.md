@@ -1,6 +1,5 @@
 <!-- 
-  README personnalisé pour Jean Paul (Je0Pa004)
-  Mis à jour : Octobre 2025
+  README pour Je0Pa004 - Style stats inspiré de Elrah
 -->
 
 <div align="center">
@@ -60,15 +59,45 @@ Mon objectif ? **Code propre, architecture scalable, et expérience utilisateur 
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats — Style "Elrah"
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 Jean Paul's GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+| Statistique             | Valeur       |
+|-------------------------|--------------|
+| Total Stars Earned      | `36`         |
+| Total Commits           | `1.3k`       |
+| Total PRs               | `21`         |
+| Total Issues            | `2`          |
+| Contributed to (last year) | `5`        |
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Je0Pa004&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Badge de performance (remplace le cercle "B" -->
+[![Performance Badge](https://img.shields.io/badge/Performance-B-FFA500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Je0Pa004)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 Activité Récente
+
+| Total Contributions | Current Streak | Longest Streak |
+|---------------------|----------------|----------------|
+| **1,741**<br><sub>Feb 6, 2023 – Present</sub> | **1**<br><sub>Oct 30</sub> | **66**<br><sub>Nov 25, 2024 – Jan 29</sub> |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🗂️ Most Used Languages
+
+<!-- Graphique horizontal des langages -->
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true)
 
 </div>
 
