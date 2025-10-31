@@ -48,28 +48,24 @@ Je travaille également avec **JavaScript**, **Python**, **HTML**, **JSON**, et 
 
 ## 📊 GitHub Stats
 
-<!-- Carte principale: résumé + grade circulaire (via github-readme-stats) -->
+<!-- VERSION VISUELLE : images (charts) intégrées pour afficher graphiques, pas de liens -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&count_private=true&theme=react-dark&hide_border=true&card_width=820" alt="Jean Paul's GitHub Stats (card)" />
+  <!-- Carte principale : résumé synthétique -->
+  <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&count_private=true&theme=react-dark&hide_border=true&card_width=820" width="820" />
 </p>
 
-<!-- Ligne de 3 cartes : Total contributions / Current streak / Longest streak.
-     github-readme-streak-stats génère une carte "streak" ; pour les autres chiffres on utilise
-     des cards images générées via github-readme-stats (contributions choisis) et une image personnalisée. -->
 <p align="center">
-  <!-- Total contributions (utilise l'endpoint contributions pour simuler un encart) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=false&theme=react-dark&hide_border=true&count_private=true&title_color=ffb020&text_color=ffffff&bg_color=00000000&custom_title=Total+Contributions" alt="Total Contributions" width="260" />
+  <!-- Rangée de 3 cartes : Total contributions / Streak / Longest (visuel aligné) -->
+  <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=false&theme=react-dark&hide_border=true&count_private=true&title_color=ffb020&text_color=ffffff&bg_color=00000000&custom_title=Total+Contributions" width="260" />
   &nbsp;&nbsp;
-  <!-- Streak card (centre) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Je0Pa004&theme=dark&hide_border=true" alt="streak stats" width="260" />
+  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Je0Pa004&theme=dark&hide_border=true" width="260" />
   &nbsp;&nbsp;
-  <!-- Longest streak (on réutilise top-langs en mode compact juste pour l'alignement visuel) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true" alt="Top languages compact" width="260" />
+  <img alt="Top Languages Compact" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true" width="260" />
 </p>
 
-<!-- Bloc "Most Used Languages" plus grand, avec legend -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=normal&theme=react-dark&hide_border=true&langs_count=6" alt="Most Used Languages Detailed" />
+  <!-- Graphique "Most Used Languages" plus détaillé -->
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=normal&theme=react-dark&hide_border=true&langs_count=6" width="720" />
 </p>
 
 ---
