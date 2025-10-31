@@ -51,11 +51,15 @@ Mon objectif ? **Code propre, architecture scalable, et expérience utilisateur 
 
 ## 📊 Mes Statistiques GitHub Réelles
 
+<div align="center">
+
 [![Jean Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr&include_all_commits=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Je0Pa004&theme=react-dark&hide_border=false)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
