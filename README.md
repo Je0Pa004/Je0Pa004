@@ -46,9 +46,28 @@ Je travaille également avec **JavaScript**, **Python**, **HTML**, **JSON**, et 
 
 ## 📊 GitHub Stats
 
-![Jean Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&count_private=true&theme=react-dark&hide_title=false)
+![Jean Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&count_private=true&theme=react-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark)
+
+---
+
+## 📌 Projets Pinned
+
+### [Swift Shipment](https://github.com/Je0Pa004/swift-shipment)
+💡 Application fullstack pour gérer les expéditions et la logistique.  
+![Badge technologies](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Badge technologies](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### [Tontine Dashboard Express](https://github.com/Je0Pa004/tontine-dashboard-express)
+💡 Dashboard interactif pour la gestion des tontines et cotisations.  
+![Badge technologies](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Badge technologies](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### [Scraping](https://github.com/Je0Pa004/scraping)
+💡 Projet de scraping web pour collecter et traiter automatiquement des données.  
+![Badge technologies](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Badge technologies](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge)
 
 ---
 
