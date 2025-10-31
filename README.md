@@ -5,9 +5,9 @@ J’aime concevoir des solutions élégantes qui allient **expérience utilisate
 
 Actuellement, je développe :
 - 🔧 **Backend** : API REST avec **Spring Boot (Java)**, sécurisées via **JWT**
-- 🎨 **Frontend** : Applications dynamiques avec **Angular**, **TypeScript**, **PrimeNG** et stylées avec **Tailwind CSS** et **CSS**
-- 🗄️ **Base de données** : Modélisation et requêtes avec **MySQL**, **PostgreSQL** et **PL/SQL**
-- 🐳 **DevOps & outils** : **Docker**, **Git/GitHub**, **Postman**, **Swagger** pour la documentation API
+- 🎨 **Frontend** : Applications dynamiques avec **Angular**, **TypeScript**, **PrimeNG**, stylées avec **Tailwind CSS**
+- 🗄️ **Base de données** : Modélisation et requêtes avec **MySQL**, **PostgreSQL**, **PL/SQL**
+- 🐳 **DevOps & outils** : **Docker**, **Git/GitHub**, **Postman**, **Swagger**
 
 Je travaille également avec **JavaScript**, **Python**, **HTML**, **JSON**, et j’adopte les bonnes pratiques d’intégration continue et de gestion de projet.
 
@@ -44,19 +44,18 @@ Je travaille également avec **JavaScript**, **Python**, **HTML**, **JSON**, et 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr)](https://github.com/Je0Pa004)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark)](https://github.com/Je0Pa004)
 
 ---
 
 ## 🚀 En ce moment
 
-- 📚 Approfondissement des bonnes pratiques **Spring Security** et **microservices**
-- 🛠️ Construction d’applications fullstack avec **Angular + Spring Boot**
-- 🌱 Exploration de l’**intégration continue (CI/CD)** avec GitHub Actions
+- 📚 Approfondissement des bonnes pratiques **Spring Security** et **microservices**  
+- 🛠️ Construction d’applications fullstack avec **Angular + Spring Boot**  
+- 🌱 Exploration de l’**intégration continue (CI/CD)** avec GitHub Actions  
 
 ---
 
