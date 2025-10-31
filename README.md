@@ -1,4 +1,4 @@
-=<div align="center">
+<div align="center">
 
 # 👋 Salut, je suis **Jean Paul** !
 
@@ -51,7 +51,7 @@ Mon objectif ? **Code propre, architecture scalable, et expérience utilisateur 
 
 ## 📊 Mes Statistiques GitHub Réelles
 
-[![Jean Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Jean Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr&include_all_commits=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
