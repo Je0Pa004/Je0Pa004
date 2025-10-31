@@ -1,5 +1,5 @@
 <!-- 
-  README pour Je0Pa004 - Style stats inspiré de Elrah
+  README pour Je0Pa004 - Stats dynamiques & réelles
 -->
 
 <div align="center">
@@ -59,45 +59,29 @@ Mon objectif ? **Code propre, architecture scalable, et expérience utilisateur 
 
 ---
 
-## 📊 GitHub Stats — Style "Elrah"
+## 📊 GitHub Stats — Réelles & Dynamiques
 
 <div align="center">
 
-### 🏆 Jean Paul's GitHub Stats
+### 🏆 Mes Statistiques GitHub
 
-| Statistique             | Valeur       |
-|-------------------------|--------------|
-| Total Stars Earned      | `36`         |
-| Total Commits           | `1.3k`       |
-| Total PRs               | `21`         |
-| Total Issues            | `2`          |
-| Contributed to (last year) | `5`        |
-
-<!-- Badge de performance (remplace le cercle "B" -->
-[![Performance Badge](https://img.shields.io/badge/Performance-B-FFA500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Je0Pa004)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
 
 <div align="center">
 
 ### 🔥 Activité Récente
 
-| Total Contributions | Current Streak | Longest Streak |
-|---------------------|----------------|----------------|
-| **1,741**<br><sub>Feb 6, 2023 – Present</sub> | **1**<br><sub>Oct 30</sub> | **66**<br><sub>Nov 25, 2024 – Jan 29</sub> |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Je0Pa004&theme=react-dark&border_radius=10&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
----
-
 <div align="center">
 
-### 🗂️ Most Used Languages
+### 🗂️ Langages les plus utilisés
 
-<!-- Graphique horizontal des langages -->
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
