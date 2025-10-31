@@ -48,25 +48,24 @@ Je travaille également avec **JavaScript**, **Python**, **HTML**, **JSON**, et 
 
 ## 📊 GitHub Stats
 
-<!-- Section entièrement graphique : pas de liens texte, seulement des images (charts) -->
+<!-- Version corrigée : affichage par images (charts) — pas de liens texte visibles -->
 <p align="center">
-  <!-- Carte principale : résumé global -->
-  <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&count_private=true&theme=react-dark&hide_border=true&card_width=820" width="820" />
+  <!-- Carte principale : synthèse -->
+  <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&count_private=true&theme=react-dark&hide_border=true&card_width=900" width="900" />
 </p>
 
 <p align="center">
-  <!-- Rangée de 3 cartes graphiques : Total Contributions / Current Streak / Longest Streak.
-       Utilisation d'images pour afficher des charts, pas d'URLs textuelles. -->
-  <img alt="Total Contributions" src="https://ghchart.rshah.org/Je0Pa004" width="260" />
+  <!-- Rangée graphique : contributions calendar (ghchart), streak, top-langs compact -->
+  <img alt="Contributions Calendar" src="https://ghchart.rshah.org/Je0Pa004" width="420" />
   &nbsp;&nbsp;
   <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Je0Pa004&theme=dark&hide_border=true" width="260" />
   &nbsp;&nbsp;
-  <img alt="Most Used Languages (compact)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true" width="260" />
+  <img alt="Top Languages Compact" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true" width="260" />
 </p>
 
 <p align="center">
-  <!-- Graphique "Most Used Languages" plus détaillé -->
-  <img alt="Most Used Languages Detailed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=normal&theme=react-dark&hide_border=true&langs_count=6" width="720" />
+  <!-- Graphique détaillé des langues -->
+  <img alt="Most Used Languages Detailed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=normal&theme=react-dark&hide_border=true&langs_count=6" width="760" />
 </p>
 
 ---
