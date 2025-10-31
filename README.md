@@ -1,63 +1,96 @@
-# 👋 Salut, je suis Jean Paul !
+<!-- 
+  README personnalisé pour Jean Paul (Je0Pa004)
+  Mis à jour : Octobre 2025
+-->
 
-Développeur **Fullstack** 💻 passionné par la création d’applications **performantes, robustes et intuitives**.  
-J’aime concevoir des solutions élégantes qui allient **expérience utilisateur fluide** et **architecture backend solide**.
+<div align="center">
 
-Actuellement, je développe :
-- 🔧 **Backend** : API REST avec **Spring Boot (Java)**, sécurisées via **JWT**
-- 🎨 **Frontend** : Applications dynamiques avec **Angular**, **TypeScript**, **PrimeNG** et stylées avec **Tailwind CSS** et **CSS**
-- 🗄️ **Base de données** : Modélisation et requêtes avec **MySQL**, **PostgreSQL** et **PL/SQL**
-- 🐳 **DevOps & outils** : **Docker**, **Git/GitHub**, **Postman**, **Swagger** pour la documentation API
+# 👋 Salut, je suis **Jean Paul** !
 
-Je travaille également avec **JavaScript**, **Python**, **HTML**, **JSON**, et j’adopte les bonnes pratiques d’intégration continue et de gestion de projet.
+### 💻 Développeur Fullstack passionné  
+**Spring Boot** • **Angular** • **PostgreSQL** • **Docker**
 
----
+[![Visitors](https://komarev.com/ghpvc/?username=Je0Pa004&color=blueviolet&style=flat-square)](https://github.com/Je0Pa004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sossu-jean-paul-a31555282/)
 
-## 🌐 Connectons-nous !
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sossu-jean-paul-a31555282/)
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🧠 À propos
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-FF6F00?style=for-the-badge&logo=primeng&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PLSQL-F88700?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+Je conçois et développe des **applications web robustes**, en combinant :
+- Un **backend sécurisé** avec **Spring Boot (Java)**, **JWT**, **REST APIs** et **Swagger**
+- Un **frontend moderne** avec **Angular**, **TypeScript**, **PrimeNG** et **Tailwind CSS**
+- Des **bases de données fiables** : **PostgreSQL**, **MySQL**, et requêtes avancées en **PL/SQL**
+
+J’automatise mes workflows avec **Git**, **GitHub**, **Docker**, et je valide mes APIs via **Postman**.  
+Mon objectif ? **Code propre, architecture scalable, et expérience utilisateur fluide.**
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Stack Technique
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+### Langages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-FF6F00?logo=primeng&logoColor=white&style=flat)
+
+### Backend & BDD
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=flat)
+![PL/SQL](https://img.shields.io/badge/PLSQL-F88700?logo=oracle&logoColor=white&style=flat)
+
+### Outils & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=flat)
 
 ---
 
-## 🚀 En ce moment
+## 📊 Statistiques GitHub
 
-- 📚 Approfondissement des bonnes pratiques **Spring Security** et **microservices**
-- 🛠️ Construction d’applications fullstack avec **Angular + Spring Boot**
-- 🌱 Exploration de l’**intégration continue (CI/CD)** avec GitHub Actions
+<div align="center">
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Je0Pa004&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-> ✨ *“Code propre, architecture claire, UX fluide — c’est la base de toute bonne application.”*
+## 🌟 Projets en Vedette
+
+> 💡 *GitHub affichera automatiquement vos repos épinglés ici.*  
+> Pour les configurer : allez sur [votre profil](https://github.com/Je0Pa004) → cliquez sur **"Customize your pins"** → choisissez jusqu’à 6 projets.
+
+*(Exemples de ce que vous pourriez épingler)*
+- 📱 **Gestionnaire de tâches fullstack** – Angular + Spring Boot
+- 🏦 **API bancaire sécurisée** – JWT, PostgreSQL, Swagger
+- 📊 **Dashboard analytique** – PrimeNG, REST, Docker
+
+---
+
+## 📬 Contact
+
+Vous avez un projet en tête ? Une idée à construire ?  
+N’hésitez pas à [me contacter sur LinkedIn](https://www.linkedin.com/in/sossu-jean-paul-a31555282/) !
+
+> 🎯 *“Un bon développeur ne code pas juste pour fonctionner — il code pour durer.”*
+
+---
