@@ -46,8 +46,9 @@ Je travaille également avec **JavaScript**, **Python**, **HTML**, **JSON**, et 
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&theme=react-dark&locale=fr)](https://github.com/Je0Pa004)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark)](https://github.com/Je0Pa004)
+![Jean Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&count_private=true&theme=react-dark&hide_title=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark)
 
 ---
 
