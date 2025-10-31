@@ -48,24 +48,25 @@ Je travaille également avec **JavaScript**, **Python**, **HTML**, **JSON**, et 
 
 ## 📊 GitHub Stats
 
-<!-- VERSION VISUELLE : images (charts) intégrées pour afficher graphiques, pas de liens -->
+<!-- Section entièrement graphique : pas de liens texte, seulement des images (charts) -->
 <p align="center">
-  <!-- Carte principale : résumé synthétique -->
+  <!-- Carte principale : résumé global -->
   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=true&count_private=true&theme=react-dark&hide_border=true&card_width=820" width="820" />
 </p>
 
 <p align="center">
-  <!-- Rangée de 3 cartes : Total contributions / Streak / Longest (visuel aligné) -->
-  <img alt="Total Contributions" src="https://github-readme-stats.vercel.app/api?username=Je0Pa004&show_icons=false&theme=react-dark&hide_border=true&count_private=true&title_color=ffb020&text_color=ffffff&bg_color=00000000&custom_title=Total+Contributions" width="260" />
+  <!-- Rangée de 3 cartes graphiques : Total Contributions / Current Streak / Longest Streak.
+       Utilisation d'images pour afficher des charts, pas d'URLs textuelles. -->
+  <img alt="Total Contributions" src="https://ghchart.rshah.org/Je0Pa004" width="260" />
   &nbsp;&nbsp;
   <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Je0Pa004&theme=dark&hide_border=true" width="260" />
   &nbsp;&nbsp;
-  <img alt="Top Languages Compact" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true" width="260" />
+  <img alt="Most Used Languages (compact)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=compact&theme=react-dark&hide_border=true" width="260" />
 </p>
 
 <p align="center">
   <!-- Graphique "Most Used Languages" plus détaillé -->
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=normal&theme=react-dark&hide_border=true&langs_count=6" width="720" />
+  <img alt="Most Used Languages Detailed" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je0Pa004&layout=normal&theme=react-dark&hide_border=true&langs_count=6" width="720" />
 </p>
 
 ---
